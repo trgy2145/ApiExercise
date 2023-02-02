@@ -3,7 +3,7 @@ import org.junit.Test;
 
 import static io.restassured.RestAssured.given;
 
-public class C02_ResponseDataAssertion {
+public class C03_ResponseDataAssertion {
       /* https://restful-booker.herokuapp.com/booking/256884  url sine
     bir Get request gönderdiğimizde donen response un status code unun 200,
     ve content type nın application/json; cherset=utf-8
