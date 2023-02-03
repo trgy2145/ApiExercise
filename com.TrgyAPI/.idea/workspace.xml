@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcd34178-0324-4568-b7ca-d1d75c6c565d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,27 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C06_Post_ResponseBodyTest.test01">
-    <configuration name="C01_Get_ApiQuery.get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.TrgyAPI" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C01_Get_ApiQuery" />
-      <option name="METHOD_NAME" value="get01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_createJsonObject.jsonObje01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.TrgyAPI" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C02_createJsonObject" />
-      <option name="METHOD_NAME" value="jsonObje01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C08_Exercise02.callObject">
     <configuration name="C04_CreateInnerJson.createJson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.TrgyAPI" />
       <option name="PACKAGE_NAME" value="" />
@@ -100,13 +77,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C07_Exercise.get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.TrgyAPI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C07_Exercise" />
+      <option name="METHOD_NAME" value="get01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_Exercise02.callObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.TrgyAPI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C08_Exercise02" />
+      <option name="METHOD_NAME" value="callObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C08_Exercise02.callObject" />
+        <item itemvalue="JUnit.C07_Exercise.get01" />
         <item itemvalue="JUnit.C06_Post_ResponseBodyTest.test01" />
         <item itemvalue="JUnit.C05_Get_ResponseBodyTest.get01" />
         <item itemvalue="JUnit.C04_CreateInnerJson.createJson" />
-        <item itemvalue="JUnit.C02_createJsonObject.jsonObje01" />
-        <item itemvalue="JUnit.C01_Get_ApiQuery.get01" />
       </list>
     </recent_temporary>
   </component>
