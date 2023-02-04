@@ -6,15 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dcd34178-0324-4568-b7ca-d1d75c6c565d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C01_Get_ApiQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/C01_Get_ApiQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C02_createJsonObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/C02_createJsonObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C03_ResponseDataAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/C03_ResponseDataAssertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C04_CreateInnerJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/C04_CreateInnerJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C05_Get_ResponseBodyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/C05_Get_ResponseBodyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C06_Post_ResponseBodyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/C06_Post_ResponseBodyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C07_Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/C07_Exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/C08_Exercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/C08_Exercise02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,37 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C10_Exercise03.getTest">
-    <configuration name="C06_Post_ResponseBodyTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.TrgyAPI" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.C06_Post_ResponseBodyTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C07_Exercise.get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.TrgyAPI" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.C07_Exercise" />
-      <option name="METHOD_NAME" value="get01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C08_Exercise02.callObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.TrgyAPI" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.C08_Exercise02" />
-      <option name="METHOD_NAME" value="callObject" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C12_Post_ExpDataAndJsonPathAssertion.post01">
     <configuration name="C09_Post_BodyTestWithJsonPath.post01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.TrgyAPI" />
       <option name="PACKAGE_NAME" value="test" />
@@ -106,13 +67,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C11_Get_CreateExpectedData.get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.TrgyAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C11_Get_CreateExpectedData" />
+      <option name="METHOD_NAME" value="get01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C12_Post_ExpDataAndJsonPathAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.TrgyAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C12_Post_ExpDataAndJsonPathAssertion" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C12_Post_ExpDataAndJsonPathAssertion.post01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.TrgyAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C12_Post_ExpDataAndJsonPathAssertion" />
+      <option name="METHOD_NAME" value="post01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C12_Post_ExpDataAndJsonPathAssertion.post01" />
+        <item itemvalue="JUnit.C12_Post_ExpDataAndJsonPathAssertion" />
+        <item itemvalue="JUnit.C11_Get_CreateExpectedData.get01" />
         <item itemvalue="JUnit.C10_Exercise03.getTest" />
         <item itemvalue="JUnit.C09_Post_BodyTestWithJsonPath.post01" />
-        <item itemvalue="JUnit.C08_Exercise02.callObject" />
-        <item itemvalue="JUnit.C07_Exercise.get01" />
-        <item itemvalue="JUnit.C06_Post_ResponseBodyTest.test01" />
       </list>
     </recent_temporary>
   </component>
