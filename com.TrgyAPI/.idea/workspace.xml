@@ -46,43 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C12_Post_ExpDataAndJsonPathAssertion.post01">
-    <configuration name="C09_Post_BodyTestWithJsonPath.post01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.TrgyAPI" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.C09_Post_BodyTestWithJsonPath" />
-      <option name="METHOD_NAME" value="post01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C10_Exercise03.getTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.TrgyAPI" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.C10_Exercise03" />
-      <option name="METHOD_NAME" value="getTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C11_Get_CreateExpectedData.get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.TrgyAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.C11_Get_CreateExpectedData" />
-      <option name="METHOD_NAME" value="get01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C14_Put_ExpDataTestWithSoftAssert.put01">
     <configuration name="C12_Post_ExpDataAndJsonPathAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.TrgyAPI" />
       <extension name="coverage">
@@ -114,13 +78,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C14_Put_ExpDataTestWithSoftAssert.put01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.TrgyAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C14_Put_ExpDataTestWithSoftAssert" />
+      <option name="METHOD_NAME" value="put01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C13_Get_ExpectedDataTestWithSoftAssert.get01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TrgyAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C13_Get_ExpectedDataTestWithSoftAssert" />
+      <option name="METHOD_NAME" value="get01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C14_Put_ExpDataTestWithSoftAssert.put01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.TrgyAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C14_Put_ExpDataTestWithSoftAssert" />
+      <option name="METHOD_NAME" value="put01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C14_Put_ExpDataTestWithSoftAssert.put01" />
+        <item itemvalue="TestNG.C14_Put_ExpDataTestWithSoftAssert.put01" />
+        <item itemvalue="TestNG.C13_Get_ExpectedDataTestWithSoftAssert.get01" />
         <item itemvalue="JUnit.C12_Post_ExpDataAndJsonPathAssertion.post01" />
         <item itemvalue="JUnit.C12_Post_ExpDataAndJsonPathAssertion" />
-        <item itemvalue="JUnit.C11_Get_CreateExpectedData.get01" />
-        <item itemvalue="JUnit.C10_Exercise03.getTest" />
-        <item itemvalue="JUnit.C09_Post_BodyTestWithJsonPath.post01" />
       </list>
     </recent_temporary>
   </component>
