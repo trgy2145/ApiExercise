@@ -46,38 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C14_Put_ExpDataTestWithSoftAssert.put01">
-    <configuration name="C12_Post_ExpDataAndJsonPathAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.TrgyAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.C12_Post_ExpDataAndJsonPathAssertion" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C12_Post_ExpDataAndJsonPathAssertion.post01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.TrgyAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.C12_Post_ExpDataAndJsonPathAssertion" />
-      <option name="METHOD_NAME" value="post01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C15_BaseUrIJsonplaceHolder.delete">
     <configuration name="C14_Put_ExpDataTestWithSoftAssert.put01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.TrgyAPI" />
       <extension name="coverage">
@@ -89,6 +58,38 @@
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.C14_Put_ExpDataTestWithSoftAssert" />
       <option name="METHOD_NAME" value="put01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C15_BaseUrIJsonplaceHolder.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.TrgyAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C15_BaseUrIJsonplaceHolder" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C15_BaseUrIJsonplaceHolder.get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.TrgyAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C15_BaseUrIJsonplaceHolder" />
+      <option name="METHOD_NAME" value="get01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C15_BaseUrIJsonplaceHolder.delete" />
+        <item itemvalue="JUnit.C15_BaseUrIJsonplaceHolder.get01" />
         <item itemvalue="JUnit.C14_Put_ExpDataTestWithSoftAssert.put01" />
         <item itemvalue="TestNG.C14_Put_ExpDataTestWithSoftAssert.put01" />
         <item itemvalue="TestNG.C13_Get_ExpectedDataTestWithSoftAssert.get01" />
-        <item itemvalue="JUnit.C12_Post_ExpDataAndJsonPathAssertion.post01" />
-        <item itemvalue="JUnit.C12_Post_ExpDataAndJsonPathAssertion" />
       </list>
     </recent_temporary>
   </component>
